@@ -1,3 +1,1 @@
-kisu ushel
-net ne ushel, ya vernu
-ushel
+neko ushel
